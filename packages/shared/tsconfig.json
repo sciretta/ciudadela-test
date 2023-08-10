@@ -1,0 +1,4 @@
+{
+  "exclude": ["codegen.ts"],
+  "extends": "tsconfig/baseconfig.json"
+}
