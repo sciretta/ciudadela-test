@@ -20,7 +20,7 @@ The frontend is in the folder apps/web, was made using "Nextjs" & "Material UI"
 
 ## Run project instructions
 
-In the root of the project install all deps using `npm install`, the next step is to compile the shared folder with `npm run compile` (from the root), and the last step is to run the project with `npm run dev`, everything from the root folder.
+In the root of the project install all deps using `npm install`, the next step is to compile the shared folder in the packages/shared folder with `npm run compile` , and the last step is to run the project with `npm run dev`, from the root.
 
 ### Project overview
 
