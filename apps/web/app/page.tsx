@@ -6,7 +6,6 @@ import {
   ApiRequestData,
   ApiSuccessResponseData,
   Character,
-  Characters,
   CharactersStatusEnum,
   CharactersToGetEnum,
 } from "shared";
