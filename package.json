@@ -9,9 +9,14 @@
   "devDependencies": {
     "@turbo/gen": "^1.9.7",
     "eslint": "^7.32.0",
-    "eslint-config-custom": "workspace:*",
+    "eslint-config-custom": "*",
     "prettier": "^2.5.1",
-    "turbo": "^1.9.7"
+    "turbo": "latest"
   },
-  "packageManager": "pnpm@8.6.10"
+  "name": "ciudadela-test",
+  "packageManager": "npm@8.5.3",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
 }
